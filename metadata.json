@@ -1,0 +1,6 @@
+{
+  "name": "Mini Formulário de Contato",
+  "description": "Formulário responsivo para captura de leads (Nome, Telefone, E-mail e Empresa) integrado via webhook n8n e pronto para deploy no Coolify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
